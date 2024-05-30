@@ -14,6 +14,6 @@ An intricately detailed digital painting of Donald Trump giving a thumbs up at a
 
 This would generate an image like the following:
 
-!(Trump7.jpg)
+!(Trump7.jpeg)
 
 This lets potential users know that the repository contains code for training a model on a dataset of images featuring Donald Trump giving a thumbs up gesture, and that the trained model can be used to generate new images based on text prompts.
