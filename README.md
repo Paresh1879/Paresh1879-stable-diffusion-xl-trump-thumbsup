@@ -1,5 +1,3 @@
-For the GitHub README, you could have a section like this:
-
 ## Repository on Hugging Face
 
 This repository is hosted on Hugging Face at: https://huggingface.co/Paresh1879/stable-diffusion-xl-thumbsup-extend
